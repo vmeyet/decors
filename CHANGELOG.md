@@ -1,5 +1,8 @@
 # Decors changelog
 
+## Version 0.4 (Released June 16, 2019)
+- (compatibility) remove warning for ruby 2.7
+
 ## Version 0.3 (Released August 24, 2017)
 
 - (feature) expose decorated method before and after decoration (https://github.com/getbannerman/decors/issues/10)
